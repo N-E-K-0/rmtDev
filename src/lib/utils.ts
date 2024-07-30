@@ -1,5 +1,6 @@
 import toast from "react-hot-toast";
 
+//common error message file
 export const handleError = (error: unknown) => {
   let message;
 
